@@ -148,7 +148,7 @@ After testing and familiarizing yourself with `pat-exec` through the CodeFlow St
 1. **Clone the Repository**:
 
    ```bash
-   git clone https://github.com/Pathakvcet/pat-exec.git
+   git clone https://github.com/Pathak1511/pat-exec.git
    ```
 
 2. **Set Up Development Environment**:

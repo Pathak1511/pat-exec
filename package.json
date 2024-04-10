@@ -1,14 +1,24 @@
 {
   "name": "pat-exec",
-  "version": "1.0.2",
-  "description": "online compiler",
+  "version": "1.0.4",
+  "description": "Online compiler for executing code snippets in various programming languages.",
   "main": "index.js",
   "scripts": {
-    "start": "npm run start"
+    "start": "node index.js"
   },
   "keywords": [
-    "compiler"
+    "compiler",
+    "online compiler",
+    "code execution"
   ],
   "author": "Hritik Pathak",
-  "license": "ISC"
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Pathak1511/pat-exec.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Pathak1511/pat-exec/issues"
+  },
+  "homepage": "https://github.com/Pathak1511/pat-exec#readme"
 }
