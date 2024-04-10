@@ -1,0 +1,14 @@
+{
+  "name": "pat-exec",
+  "version": "1.0.2",
+  "description": "online compiler",
+  "main": "index.js",
+  "scripts": {
+    "start": "npm run start"
+  },
+  "keywords": [
+    "compiler"
+  ],
+  "author": "Hritik Pathak",
+  "license": "ISC"
+}
